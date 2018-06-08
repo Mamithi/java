@@ -12,11 +12,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Dialog.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/dialog/Dialog.java">
+      <file leaf-file-name="GradeBookTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+            <state>
+              <caret column="11" selection-start-column="11" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradeBook.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,13 +51,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/mamithi/GradeBook.java" />
-        <option value="$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java" />
-        <option value="$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/account/Account.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/accounttest/AccountTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/dialogtest/DialogTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/com/mamithi/dialog/Dialog.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/dialog/Dialog.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java" />
       </list>
     </option>
   </component>
@@ -64,8 +81,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,13 +107,19 @@
               <item name="FirstOOP" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mamithi" type="462c0819:PsiDirectoryNode" />
-              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+              <item name="gradebook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FirstOOP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FirstOOP" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mamithi" type="462c0819:PsiDirectoryNode" />
+              <item name="gradebooktest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -116,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Dialog (1)">
+  <component name="RunManager" selected="Application.GradeBookTest">
     <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.accounttest.AccountTest" />
       <module name="FirstOOP" />
@@ -210,10 +234,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GradeBookTest" />
         <item itemvalue="Application.Dialog (1)" />
         <item itemvalue="Application.Dialog" />
         <item itemvalue="Application.AccountTest" />
-        <item itemvalue="Application.GradeBookTest" />
       </list>
     </recent_temporary>
   </component>
@@ -229,12 +253,13 @@
       <updated>1528466418166</updated>
       <workItem from="1528466421759" duration="3909000" />
       <workItem from="1528470547189" duration="624000" />
-      <workItem from="1528484404494" duration="1808000" />
+      <workItem from="1528484404494" duration="2150000" />
+      <workItem from="1528488625247" duration="914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6341000" />
+    <option name="totallyTimeSpent" value="7597000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="701" y="25" width="665" height="743" extended-state="4" />
@@ -283,6 +308,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/dialog/Dialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -297,12 +329,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -311,6 +337,7 @@
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
           </folding>
@@ -341,12 +368,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -355,6 +376,7 @@
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
             <element signature="e#235#236#0" expanded="true" />
           </folding>
@@ -372,37 +394,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/GradeBook.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#235#236#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/account/Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -416,32 +411,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/dialogtest/DialogTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/com/mamithi/dialog/Dialog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/dialogtest/DialogTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/com/mamithi/dialog/Dialog.java" />
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/dialog/Dialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="51" />
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="32" column="45" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

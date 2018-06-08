@@ -10,14 +10,7 @@ public class GradeBookTest {
 
         GradeBook gradeBook = new GradeBook("Bsc Computer Science");
 
-        System.out.printf("Initial course name is: %s\n\n", gradeBook.getCourseName());
-
-        System.out.println("Please enter the course name:");
-        String nameOfCourse = input.nextLine();
-        System.out.println();
-
-        gradeBook.setCourseName(nameOfCourse);
-
         gradeBook.displayMessage();
+        gradeBook.determineClassAverage();
     }
 }
