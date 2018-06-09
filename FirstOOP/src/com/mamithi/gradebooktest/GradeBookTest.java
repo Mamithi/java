@@ -11,6 +11,7 @@ public class GradeBookTest {
         GradeBook gradeBook = new GradeBook("Bsc Computer Science");
 
         gradeBook.displayMessage();
-        gradeBook.determineClassAverage();
+        gradeBook.inputGrades();
+        gradeBook.displayGradeReport();
     }
 }
