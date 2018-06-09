@@ -27,19 +27,46 @@ public class GradeBook {
     public void determineClassAverage(){
         Scanner input = new Scanner(System.in);
 
-        int total=0, gradeCounter=1, grade, average;
+        int total=0, gradeCounter=0, grade;
+        double average;
 
-        while ( gradeCounter <= 10){
-            System.out.printf("Enter grade %d: ", gradeCounter);
-            grade = input.nextInt();
+        System.out.print("Enter grade or -1 to quit: ");
+        grade = input.nextInt();
+
+        while(grade != -1){
             total += grade;
             gradeCounter += 1;
+
+            System.out.print("Enter grade or -1 to quit: ");
+            grade = input.nextInt();
+
         }
 
-        average = total/10;
+        if(gradeCounter != 0){
+            average = (double) total / gradeCounter;
 
-        System.out.printf("\nTotal of all 10 grades is %d\n", total);
-        System.out.printf("Class average is %d\n", average);
+            System.out.printf("\nTotal of the %d grades entered is %d\n", gradeCounter, total);
+            System.out.printf("Class average is %.2f\n", average);
+
+        }else{
+            System.out.printf("No grades were entered");
+        }
+
+
+
+
+
+//        while ( gradeCounter <= 10){
+//            System.out.printf("Enter grade %d: ", gradeCounter);
+//            grade = input.nextInt();
+//            total += grade;
+//            gradeCounter += 1;
+//        }
+//
+//        average = total/10;
+//
+//        System.out.printf("\nTotal of all 10 grades is %d\n", total);
+//        System.out.printf("Class average is %d\n", average);
 
 
     }
