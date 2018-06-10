@@ -2,14 +2,17 @@ package com.mamithi.initarray;
 
 public class InitArray {
     public static void main(String[] args) {
-        int [] array;
+        final int ARRAY_LENGTH = 10;
+        int total = 0;
+        int[] array = new int[ARRAY_LENGTH];
 
-        array = new int[10];
 
-        System.out.printf("%s%8s\n", "Index", "Value");
-
-        for(int counter = 0; counter < array.length; counter++){
-            System.out.printf("%5d%8d\n", counter, array[counter]);
+        for (int counter = 0; counter < array.length; counter++) {
+            array[counter] = 2 + 2 * counter;
+            total += array[counter];
         }
+
+        System.out.printf("Total of %d array elements is:  %d\n",
+                ARRAY_LENGTH, total);
     }
 }
