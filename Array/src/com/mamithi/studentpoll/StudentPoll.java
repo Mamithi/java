@@ -10,7 +10,7 @@ public class StudentPoll {
         int[] frequency = new int[6];
 
         for(int counter = 0; counter < 20; counter++){
-            responses[counter] = 1 + random.nextInt(5);
+            responses[counter] = 1 + random.nextInt(9);
         }
 
         for(int answer = 0; answer < responses.length; answer++){
