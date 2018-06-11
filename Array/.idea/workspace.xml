@@ -12,46 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="GradeBook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java">
+      <file leaf-file-name="ArrayListCollection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/arraylistcollection/ArrayListCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+            <state relative-caret-position="615">
+              <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
               <folding>
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#200#208#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VarargsTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/varargstest/VarargsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="90" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradeBookTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InitArray1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/initarray1/InitArray1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -81,6 +49,9 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/gradebooktest/GradeBookTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/gradebook/GradeBook.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/varargstest/VarargsTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/initarray2/InitArray2.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/arraymanipulations/ArrayManipulations.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/arraylistcollection/ArrayListCollection.java" />
       </list>
     </option>
   </component>
@@ -129,28 +100,21 @@
               <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mamithi" type="462c0819:PsiDirectoryNode" />
-              <item name="gradebook" type="462c0819:PsiDirectoryNode" />
+              <item name="arraylistcollection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Array" type="b2602c69:ProjectViewProjectNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mamithi" type="462c0819:PsiDirectoryNode" />
-              <item name="gradebooktest" type="462c0819:PsiDirectoryNode" />
+              <item name="arraymanipulations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Array" type="b2602c69:ProjectViewProjectNode" />
               <item name="Array" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mamithi" type="462c0819:PsiDirectoryNode" />
-              <item name="initarray1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Array" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mamithi" type="462c0819:PsiDirectoryNode" />
-              <item name="studentpoll" type="462c0819:PsiDirectoryNode" />
+              <item name="initarray2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Array" type="b2602c69:ProjectViewProjectNode" />
@@ -189,14 +153,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.VarargsTest">
-    <configuration name="DeckOfCardsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.deckofcardstest.DeckOfCardsTest" />
+  <component name="RunManager" selected="Application.ArrayListCollection">
+    <configuration name="ArrayListCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.arraylistcollection.ArrayListCollection" />
       <module name="Array" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mamithi.deckofcardstest.*" />
+          <option name="PATTERN" value="com.mamithi.arraylistcollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ArrayManipulations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.arraymanipulations.ArrayManipulations" />
+      <module name="Array" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.arraymanipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,24 +187,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InitArray1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.initarray1.InitArray1" />
+    <configuration name="InitArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.initarray2.InitArray2" />
       <module name="Array" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mamithi.initarray1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="PassArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.com.mamithi.passaarray.PassArray" />
-      <module name="Array" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.com.mamithi.passaarray.*" />
+          <option name="PATTERN" value="com.mamithi.initarray2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,19 +251,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DeckOfCardsTest" />
-      <item itemvalue="Application.PassArray" />
       <item itemvalue="Application.GradeBookTest" />
-      <item itemvalue="Application.InitArray1" />
       <item itemvalue="Application.VarargsTest" />
+      <item itemvalue="Application.InitArray2" />
+      <item itemvalue="Application.ArrayManipulations" />
+      <item itemvalue="Application.ArrayListCollection" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListCollection" />
+        <item itemvalue="Application.ArrayManipulations" />
+        <item itemvalue="Application.InitArray2" />
         <item itemvalue="Application.VarargsTest" />
         <item itemvalue="Application.GradeBookTest" />
-        <item itemvalue="Application.InitArray1" />
-        <item itemvalue="Application.PassArray" />
-        <item itemvalue="Application.DeckOfCardsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -313,12 +277,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528620065042</updated>
-      <workItem from="1528620070744" duration="14816000" />
+      <workItem from="1528620070744" duration="18678000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14816000" />
+    <option name="totallyTimeSpent" value="18678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="-2" width="840" height="1052" extended-state="4" />
@@ -459,8 +423,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/varargstest/VarargsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="90" selection-start-line="19" selection-start-column="90" selection-end-line="19" selection-end-column="90" />
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/arraymanipulations/ArrayManipulations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/initarray2/InitArray2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/arraylistcollection/ArrayListCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+          <folding>
+            <element signature="e#200#208#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
