@@ -12,57 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/book/Book.java">
+      <file leaf-file-name="StaticImportTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/staticimporttest/StaticImportTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-              <folding>
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#579#580#0" expanded="true" />
-                <element signature="e#619#620#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnumTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/enumtest/EnumTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeStatic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/employeestatic/EmployeeStatic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-              <folding>
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmployeeStaticTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/employeestatictest/EmployeeStaticTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -93,6 +47,7 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/enumtest/EnumTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/employeestatic/EmployeeStatic.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/employeestatictest/EmployeeStaticTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/staticimporttest/StaticImportTest.java" />
       </list>
     </option>
   </component>
@@ -150,6 +105,13 @@
               <item name="mamithi" type="462c0819:PsiDirectoryNode" />
               <item name="employeestatictest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Classes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Classes" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mamithi" type="462c0819:PsiDirectoryNode" />
+              <item name="staticimporttest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -175,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmployeeStaticTest">
+  <component name="RunManager" selected="Application.StaticImportTest">
     <configuration name="EmployeeStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.employeestatictest.EmployeeStaticTest" />
       <module name="Classes" />
@@ -209,13 +171,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.thistest.ThisTest" />
+    <configuration name="StaticImportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.staticimporttest.StaticImportTest" />
       <module name="Classes" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mamithi.thistest.*" />
+          <option name="PATTERN" value="com.mamithi.staticimporttest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,19 +235,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ThisTest" />
       <item itemvalue="Application.Time2Test" />
       <item itemvalue="Application.EmployeeTest" />
       <item itemvalue="Application.EnumTest" />
       <item itemvalue="Application.EmployeeStaticTest" />
+      <item itemvalue="Application.StaticImportTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticImportTest" />
         <item itemvalue="Application.EmployeeStaticTest" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.EmployeeTest" />
         <item itemvalue="Application.Time2Test" />
-        <item itemvalue="Application.ThisTest" />
       </list>
     </recent_temporary>
   </component>
@@ -300,12 +262,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528728737513</updated>
       <workItem from="1528728741707" duration="3576000" />
-      <workItem from="1529061098704" duration="9837000" />
+      <workItem from="1529061098704" duration="10334000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13413000" />
+    <option name="totallyTimeSpent" value="13910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="701" y="25" width="665" height="743" extended-state="4" />
@@ -321,7 +283,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -522,16 +484,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/enumtest/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/employeestatic/EmployeeStatic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -548,11 +500,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/employeestatictest/EmployeeStaticTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="225">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/enumtest/EnumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/staticimporttest/StaticImportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
         </state>
       </provider>
     </entry>
