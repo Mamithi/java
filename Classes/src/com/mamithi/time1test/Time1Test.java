@@ -1,7 +1,6 @@
 package com.mamithi.time1test;
 
 import com.mamithi.time1.Time1;
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 public class Time1Test {
     public static void main(String[] args) {
