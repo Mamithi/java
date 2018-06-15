@@ -12,7 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DrawRainBow.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DrawRainBow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/drawrainbow/DrawRainBow.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -26,14 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DrawRainbowTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DrawRainbowTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/com/mamithi/drawrainbowtest/DrawRainbowTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -301,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528620065042</updated>
-      <workItem from="1528620070744" duration="19845000" />
+      <workItem from="1528620070744" duration="20236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19845000" />
+    <option name="totallyTimeSpent" value="20236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="-2" width="840" height="1052" extended-state="4" />
@@ -326,7 +323,7 @@
       <window_info anchor="bottom" id="Terminal" weight="0.32899022" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24811083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24811083" />
       <window_info anchor="right" id="Database" />
       <window_info id="Learn" weight="0.32871535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -348,6 +345,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/initarray/InitArray.java">
@@ -476,16 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/com/mamithi/drawrainbowtest/DrawRainbowTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/drawrainbow/DrawRainBow.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -495,6 +487,13 @@
             <element signature="e#405#406#0" expanded="true" />
             <element signature="e#423#424#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/com/mamithi/drawrainbowtest/DrawRainbowTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
