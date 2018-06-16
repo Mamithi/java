@@ -36,11 +36,8 @@
       <file leaf-file-name="TestDraw.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/testdraw/TestDraw.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -310,12 +307,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528728737513</updated>
       <workItem from="1528728741707" duration="3576000" />
-      <workItem from="1529061098704" duration="11933000" />
+      <workItem from="1529061098704" duration="12433000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15509000" />
+    <option name="totallyTimeSpent" value="16009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="701" y="25" width="665" height="743" extended-state="4" />
@@ -360,7 +357,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/mamithi/testdraw/TestDraw.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -596,11 +601,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/testdraw/TestDraw.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
