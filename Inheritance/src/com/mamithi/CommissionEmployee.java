@@ -67,16 +67,16 @@ public class CommissionEmployee extends Object {
     }
 
     public double earnings() {
-        return commissionRate * grossSales;
+        return getCommissionRate() * getGrossSales();
     }
 
     @Override
     public String toString() {
         return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f",
-                "comission employee", firstname, lastname,
-                "social security number", socialSecurityNumber,
-                "gross sales", grossSales,
-                "commission rate", commissionRate
+                "comission employee", getFirstname(), getLastname(),
+                "social security number", getSocialSecurityNumber(),
+                "gross sales", getGrossSales(),
+                "commission rate", getCommissionRate()
         );
     }
 }
