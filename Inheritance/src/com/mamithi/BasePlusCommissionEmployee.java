@@ -1,16 +1,18 @@
 package com.mamithi;
 
-public class CommissionEmployee extends Object {
+public class BasePlusCommissionEmployee {
     private String firstname, lastname, socialSecurityNumber;
-    private double grossSales, commissionRate;
+    private double grossSales, commissionRate, baseSalary;
 
-    public CommissionEmployee(String first, String last, String ssn,
-                              double sales, double rate) {
+    public BasePlusCommissionEmployee(String first, String last,
+                                      String ssn, double sales,
+                                      double rate, double salary) {
         firstname = first;
         lastname = last;
         socialSecurityNumber = ssn;
         setGrossSales(sales);
         setCommissionRate(rate);
+        setBaseSalary(salary);
     }
 
     public void setFirstname(String first) {
@@ -20,7 +22,6 @@ public class CommissionEmployee extends Object {
     public String getFirstname() {
         return firstname;
     }
-
 
     public void setLastname(String last) {
         lastname = last;
@@ -39,11 +40,11 @@ public class CommissionEmployee extends Object {
     }
 
     public void setGrossSales(double sales) {
-        if (sales >= 0.00) {
+        if (sales >= 0.0) {
             grossSales = sales;
         } else {
             throw new IllegalArgumentException(
-                    "Gross sales must be >= to 0.00"
+                    "Gross sales must be >= 0.0"
             );
         }
     }
@@ -57,7 +58,7 @@ public class CommissionEmployee extends Object {
             commissionRate = rate;
         } else {
             throw new IllegalArgumentException(
-                    "Commission rate must be > 0.0 and < 1.0"
+                    "Commission rate must be > 0 and < 1.0"
             );
         }
     }
@@ -66,17 +67,32 @@ public class CommissionEmployee extends Object {
         return commissionRate;
     }
 
+    public void setBaseSalary(double salary) {
+        if (salary >= 0.0) {
+            baseSalary = salary;
+        } else {
+            throw new IllegalArgumentException(
+                    "Base salary must be >= 0.0"
+            );
+        }
+    }
+
+    public double getBaseSalary() {
+        return baseSalary;
+    }
+
     public double earnings() {
-        return commissionRate * grossSales;
+        return baseSalary + (commissionRate * grossSales);
     }
 
     @Override
     public String toString() {
-        return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f",
-                "comission employee", firstname, lastname,
+        return String.format(
+                "%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f\n %s: %.2f ",
+                "base-salaried commission employee", firstname, lastname,
                 "social security number", socialSecurityNumber,
-                "gross sales", grossSales,
-                "commission rate", commissionRate
+                "gross sales", grossSales, "commission rate", commissionRate,
+                "base salary", baseSalary
         );
     }
 }
