@@ -1,6 +1,6 @@
 package com.mamithi;
 
-public abstract class Employee {
+public abstract class Employee implements Payable {
     private String firstname, lastname, socialSecurityNumber;
 
     public Employee(String first, String last, String ssn) {
@@ -38,5 +38,4 @@ public abstract class Employee {
         return String.format("%s %s\nsocial security number: %s", getFirstname(), getLastname(), getSocialSecurityNumber());
     }
 
-    public abstract double earnings();
 }
