@@ -7,8 +7,22 @@ public abstract class Transaction {
 
     public Transaction(int userAccountNumber, Screen atmSreen,
                        BankDatabase atmBankDatabase) {
-        accountNumber = atmBankDatabase;
+        accountNumber = userAccountNumber;
         screen = atmSreen;
-        bankDatabase = BankDatabase;
+        bankDatabase = atmBankDatabase;
     }
+
+    public int getAccountNumber() {
+        return accountNumber;
+    }
+
+    public Screen getScreen() {
+        return screen;
+    }
+
+    public BankDatabase getBankDatabase() {
+        return bankDatabase;
+    }
+
+    abstract public void execute();
 }
