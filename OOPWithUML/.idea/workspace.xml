@@ -15,8 +15,17 @@
       <file leaf-file-name="Withdrawal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/Withdrawal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+            <state relative-caret-position="155">
+              <caret line="46" column="15" lean-forward="true" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Deposit.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/Deposit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -101,23 +110,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Screen.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/Screen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#91#92#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Keypad.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/Keypad.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,7 +123,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CashDispenser.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CashDispenser.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/CashDispenser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -167,6 +159,7 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/BalanceInquiry.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/Withdrawal.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/CashDispenser.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/Deposit.java" />
       </list>
     </option>
   </component>
@@ -292,12 +285,12 @@
       <workItem from="1529444839436" duration="10093000" />
       <workItem from="1529559330546" duration="2596000" />
       <workItem from="1529645700375" duration="6272000" />
-      <workItem from="1529955686708" duration="3324000" />
+      <workItem from="1529955686708" duration="4143000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22285000" />
+    <option name="totallyTimeSpent" value="23104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="701" y="25" width="665" height="743" extended-state="4" />
@@ -316,7 +309,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23263328" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.23263328" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -629,13 +622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Withdrawal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/CashDispenser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -644,6 +630,20 @@
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Withdrawal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="46" column="15" lean-forward="true" selection-start-line="46" selection-start-column="15" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Deposit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
         </state>
       </provider>
     </entry>
