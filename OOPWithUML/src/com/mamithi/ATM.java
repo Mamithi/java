@@ -64,7 +64,7 @@ public class ATM {
         while (!userExited) {
             int mainMenuSelection = displayMainMenu();
 
-            switch (mainMainSelection) {
+            switch (mainMenuSelection) {
                 case BALANCE_INQUIRY:
                 case WITHDRAWAL:
                 case DEPOSIT:
@@ -91,7 +91,7 @@ public class ATM {
         screen.displayMessageLine("1 - View My Balance");
         screen.displayMessageLine("2 - Withdraw cash");
         screen.displayMessageLine("3 - Deposit Funds");
-        screen.displayMessageLine("4 - Enter a Choice: ");
+        screen.displayMessageLine("4 - Exit: ");
 
         return keypad.getInput();
     }
