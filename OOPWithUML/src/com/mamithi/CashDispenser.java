@@ -8,7 +8,7 @@ public class CashDispenser {
         count = INITIAL_COUNT;
     }
 
-    public void dispenseCount(int amount) {
+    public void dispenseCash(int amount) {
         int billsRequired = amount / 20;
         count -= billsRequired;
     }
