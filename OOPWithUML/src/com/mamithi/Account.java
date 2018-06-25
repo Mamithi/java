@@ -16,7 +16,7 @@ public class Account {
 
     public boolean validatePIN(int userPIN) {
         if (userPIN == pin) {
-            return true
+            return true;
         } else {
             return false;
         }
