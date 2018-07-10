@@ -17,20 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ComboBoxFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ComboBoxFrame.java">
+      <file leaf-file-name="MultipleSelectionFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ListFrame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ListTest.java">
+      <file leaf-file-name="MultipleSelectionTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -71,8 +62,10 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/RadioButtonTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/RadioButtonFrame.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/ComboBoxFrame.java" />
-        <option value="$PROJECT_DIR$/src/com/mamithi/ListFrame.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/ListTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/ListFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/MultipleSelectionFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java" />
       </list>
     </option>
   </component>
@@ -147,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="RunManager" selected="Application.MultipleSelectionTest">
     <configuration name="ButtonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.ButtonTest" />
       <module name="GUIComponentPart1" />
@@ -181,8 +174,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RadioButtonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.RadioButtonTest" />
+    <configuration name="MultipleSelectionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.MultipleSelectionTest" />
       <module name="GUIComponentPart1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -192,8 +185,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="TextFieldTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.TextFieldTest" />
+    <configuration name="RadioButtonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.RadioButtonTest" />
       <module name="GUIComponentPart1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -245,19 +238,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.TextFieldTest" />
       <item itemvalue="Application.ButtonTest" />
       <item itemvalue="Application.CheckBoxTest" />
       <item itemvalue="Application.RadioButtonTest" />
       <item itemvalue="Application.ListTest" />
+      <item itemvalue="Application.MultipleSelectionTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MultipleSelectionTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.RadioButtonTest" />
         <item itemvalue="Application.CheckBoxTest" />
         <item itemvalue="Application.ButtonTest" />
-        <item itemvalue="Application.TextFieldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -273,12 +266,12 @@
       <updated>1529994634799</updated>
       <workItem from="1529994636864" duration="6660000" />
       <workItem from="1530952388791" duration="3293000" />
-      <workItem from="1531204711943" duration="5546000" />
+      <workItem from="1531204711943" duration="7381000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15499000" />
+    <option name="totallyTimeSpent" value="17334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="-2" width="840" height="1052" extended-state="4" />
@@ -468,20 +461,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/ListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/ListFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/ListTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
