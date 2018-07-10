@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MultipleSelectionFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionFrame.java">
+      <file leaf-file-name="MouseTrackerFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/MouseTrackerFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="419">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MultipleSelectionTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java">
+      <file leaf-file-name="MouseTracker.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/MouseTracker.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -66,6 +66,8 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/ListFrame.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/MultipleSelectionFrame.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/MouseTrackerFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/MouseTracker.java" />
       </list>
     </option>
   </component>
@@ -140,18 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MultipleSelectionTest">
-    <configuration name="ButtonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.ButtonTest" />
-      <module name="GUIComponentPart1" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.MouseTracker">
     <configuration name="CheckBoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.CheckBoxTest" />
       <module name="GUIComponentPart1" />
@@ -165,6 +156,17 @@
     </configuration>
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.ListTest" />
+      <module name="GUIComponentPart1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MouseTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.MouseTracker" />
       <module name="GUIComponentPart1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -238,19 +240,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ButtonTest" />
       <item itemvalue="Application.CheckBoxTest" />
       <item itemvalue="Application.RadioButtonTest" />
       <item itemvalue="Application.ListTest" />
       <item itemvalue="Application.MultipleSelectionTest" />
+      <item itemvalue="Application.MouseTracker" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MouseTracker" />
         <item itemvalue="Application.MultipleSelectionTest" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.RadioButtonTest" />
         <item itemvalue="Application.CheckBoxTest" />
-        <item itemvalue="Application.ButtonTest" />
       </list>
     </recent_temporary>
   </component>
@@ -266,12 +268,12 @@
       <updated>1529994634799</updated>
       <workItem from="1529994636864" duration="6660000" />
       <workItem from="1530952388791" duration="3293000" />
-      <workItem from="1531204711943" duration="7381000" />
+      <workItem from="1531204711943" duration="8896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17334000" />
+    <option name="totallyTimeSpent" value="18849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="-2" width="840" height="1052" extended-state="4" />
@@ -478,20 +480,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionFrame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="240">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/MultipleSelectionTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/MouseTrackerFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/MouseTracker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
