@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GridLayoutFrame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/GridLayoutFrame.java">
+      <file leaf-file-name="PanelFrame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/PanelFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GridLayoutDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/GridLayoutDemo.java">
+      <file leaf-file-name="PanelDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/PanelDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -80,6 +80,8 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/BorderLayoutDemo.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/GridLayoutFrame.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/GridLayoutDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/PanelFrame.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/PanelDemo.java" />
       </list>
     </option>
   </component>
@@ -154,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GridLayoutDemo">
+  <component name="RunManager" selected="Application.PanelDemo">
     <configuration name="BorderLayoutDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.BorderLayoutDemo" />
       <module name="GUIComponentPart1" />
@@ -199,8 +201,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Painter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.Painter" />
+    <configuration name="PanelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.PanelDemo" />
       <module name="GUIComponentPart1" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -252,19 +254,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Painter" />
       <item itemvalue="Application.KeyDemo" />
       <item itemvalue="Application.FlowLayoutDemo" />
       <item itemvalue="Application.BorderLayoutDemo" />
       <item itemvalue="Application.GridLayoutDemo" />
+      <item itemvalue="Application.PanelDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PanelDemo" />
         <item itemvalue="Application.GridLayoutDemo" />
         <item itemvalue="Application.BorderLayoutDemo" />
         <item itemvalue="Application.FlowLayoutDemo" />
         <item itemvalue="Application.KeyDemo" />
-        <item itemvalue="Application.Painter" />
       </list>
     </recent_temporary>
   </component>
@@ -281,12 +283,12 @@
       <workItem from="1529994636864" duration="6660000" />
       <workItem from="1530952388791" duration="3293000" />
       <workItem from="1531204711943" duration="11264000" />
-      <workItem from="1531299108062" duration="7027000" />
+      <workItem from="1531299108062" duration="7792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28244000" />
+    <option name="totallyTimeSpent" value="29009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="701" y="25" width="800" height="902" extended-state="4" />
@@ -294,7 +296,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32814527" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -302,7 +304,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32555124" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32555124" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="2" />
@@ -604,6 +606,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/GridLayoutDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/GridLayoutFrame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -614,10 +623,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/GridLayoutDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/PanelFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/PanelDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
