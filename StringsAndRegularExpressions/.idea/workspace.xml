@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StringMiscellaneous.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringMiscellaneous.java">
+      <file leaf-file-name="StringCompare.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            <state relative-caret-position="630">
+              <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -35,6 +35,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/mamithi/StringConstructors.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/StringMiscellaneous.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/StringCompare.java" />
       </list>
     </option>
   </component>
@@ -103,7 +104,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringMiscellaneous">
+  <component name="RunManager" selected="Application.StringCompare">
+    <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringCompare" />
+      <module name="StringsAndRegularExpressions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StringConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StringConstructors" />
       <module name="StringsAndRegularExpressions" />
@@ -170,9 +182,11 @@
     <list>
       <item itemvalue="Application.StringConstructors" />
       <item itemvalue="Application.StringMiscellaneous" />
+      <item itemvalue="Application.StringCompare" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringCompare" />
         <item itemvalue="Application.StringMiscellaneous" />
         <item itemvalue="Application.StringConstructors" />
       </list>
@@ -188,12 +202,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531396652613</updated>
-      <workItem from="1531396656222" duration="1799000" />
+      <workItem from="1531396656222" duration="2816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1799000" />
+    <option name="totallyTimeSpent" value="2816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="902" extended-state="4" />
@@ -201,7 +215,7 @@
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.3294423" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -246,8 +260,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringMiscellaneous.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
         </state>
       </provider>
     </entry>
