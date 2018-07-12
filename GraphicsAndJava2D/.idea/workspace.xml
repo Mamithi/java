@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ShowColors2Frame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ShowColors2Frame.java">
+      <file leaf-file-name="FontJPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/FontJPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="29" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShowColors2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ShowColors2.java">
+      <file leaf-file-name="Fonts.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/Fonts.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -49,6 +49,8 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/ShowColors.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/ShowColors2Frame.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/ShowColors2.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/FontJPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/Fonts.java" />
       </list>
     </option>
   </component>
@@ -117,7 +119,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShowColors2">
+  <component name="RunManager" selected="Application.Fonts">
+    <configuration name="Fonts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.Fonts" />
+      <module name="GraphicsAndJava2D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ShowColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.ShowColors" />
       <module name="GraphicsAndJava2D" />
@@ -184,9 +197,11 @@
     <list>
       <item itemvalue="Application.ShowColors" />
       <item itemvalue="Application.ShowColors2" />
+      <item itemvalue="Application.Fonts" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fonts" />
         <item itemvalue="Application.ShowColors2" />
         <item itemvalue="Application.ShowColors" />
       </list>
@@ -202,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531313842650</updated>
-      <workItem from="1531313846627" duration="2815000" />
+      <workItem from="1531313846627" duration="4564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2815000" />
+    <option name="totallyTimeSpent" value="4564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="902" extended-state="4" />
@@ -280,8 +295,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/ShowColors2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/FontJPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Fonts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
