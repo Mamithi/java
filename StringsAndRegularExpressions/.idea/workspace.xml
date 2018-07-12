@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StringConcatenation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringConcatenation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringConcatenation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+            <state relative-caret-position="150">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringMiscellaneous2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringMiscellaneous2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -39,6 +48,7 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/StringIndexMethods.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/SubString.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/StringConcatenation.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/StringMiscellaneous2.java" />
       </list>
     </option>
   </component>
@@ -107,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringConcatenation">
+  <component name="RunManager" selected="Application.StringMiscellaneous2">
     <configuration name="StringCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StringCompare" />
       <module name="StringsAndRegularExpressions" />
@@ -141,8 +151,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringMiscellaneous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringMiscellaneous" />
+    <configuration name="StringMiscellaneous2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringMiscellaneous2" />
       <module name="StringsAndRegularExpressions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -205,19 +215,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringMiscellaneous" />
       <item itemvalue="Application.StringCompare" />
       <item itemvalue="Application.StringIndexMethods" />
       <item itemvalue="Application.SubString" />
       <item itemvalue="Application.StringConcatenation" />
+      <item itemvalue="Application.StringMiscellaneous2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringMiscellaneous2" />
         <item itemvalue="Application.StringConcatenation" />
         <item itemvalue="Application.SubString" />
         <item itemvalue="Application.StringIndexMethods" />
         <item itemvalue="Application.StringCompare" />
-        <item itemvalue="Application.StringMiscellaneous" />
       </list>
     </recent_temporary>
   </component>
@@ -231,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531396652613</updated>
-      <workItem from="1531396656222" duration="5128000" />
+      <workItem from="1531396656222" duration="5602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5128000" />
+    <option name="totallyTimeSpent" value="5602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="902" extended-state="4" />
@@ -324,8 +334,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringConcatenation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="63" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringMiscellaneous2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
         </state>
       </provider>
     </entry>
