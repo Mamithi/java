@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LinesRectsOvalsJPanel.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/LinesRectsOvalsJPanel.java">
+      <file leaf-file-name="ArcsJPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ArcsJPanel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,14 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinesRectsOvals.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/LinesRectsOvals.java">
+      <file leaf-file-name="DrawArcs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/DrawArcs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -59,6 +56,8 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/Metrics.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/LinesRectsOvals.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/LinesRectsOvalsJPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/ArcsJPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/DrawArcs.java" />
       </list>
     </option>
   </component>
@@ -127,7 +126,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LinesRectsOvals">
+  <component name="RunManager" selected="Application.DrawArcs">
+    <configuration name="DrawArcs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.DrawArcs" />
+      <module name="GraphicsAndJava2D" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="Fonts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.Fonts" />
       <module name="GraphicsAndJava2D" />
@@ -152,17 +162,6 @@
     </configuration>
     <configuration name="Metrics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.Metrics" />
-      <module name="GraphicsAndJava2D" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ShowColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.ShowColors" />
       <module name="GraphicsAndJava2D" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -225,19 +224,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ShowColors" />
       <item itemvalue="Application.ShowColors2" />
       <item itemvalue="Application.Fonts" />
       <item itemvalue="Application.Metrics" />
       <item itemvalue="Application.LinesRectsOvals" />
+      <item itemvalue="Application.DrawArcs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DrawArcs" />
         <item itemvalue="Application.LinesRectsOvals" />
         <item itemvalue="Application.Metrics" />
         <item itemvalue="Application.Fonts" />
         <item itemvalue="Application.ShowColors2" />
-        <item itemvalue="Application.ShowColors" />
       </list>
     </recent_temporary>
   </component>
@@ -251,12 +250,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531313842650</updated>
-      <workItem from="1531313846627" duration="6468000" />
+      <workItem from="1531313846627" duration="7037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6468000" />
+    <option name="totallyTimeSpent" value="7037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="902" extended-state="4" />
@@ -272,7 +271,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3294423" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3294423" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
@@ -387,11 +386,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/LinesRectsOvalsJPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/ArcsJPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/DrawArcs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
