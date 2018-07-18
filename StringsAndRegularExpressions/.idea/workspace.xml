@@ -12,11 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RegexSubstitution.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/RegexSubstitution.java">
+      <file leaf-file-name="RegexMatches.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/RegexMatches.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+            <state relative-caret-position="255">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,6 +53,7 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/ValidateInput.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/Validate.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/RegexSubstitution.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/RegexMatches.java" />
       </list>
     </option>
   </component>
@@ -118,7 +122,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RegexSubstitution">
+  <component name="RunManager" selected="Application.RegexMatches">
+    <configuration name="RegexMatches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.RegexMatches" />
+      <module name="StringsAndRegularExpressions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="RegexSubstitution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.RegexSubstitution" />
       <module name="StringsAndRegularExpressions" />
@@ -132,17 +147,6 @@
     </configuration>
     <configuration name="StaticCharMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StaticCharMethods" />
-      <module name="StringsAndRegularExpressions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringBuilderAppend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderAppend" />
       <module name="StringsAndRegularExpressions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,19 +220,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringBuilderAppend" />
       <item itemvalue="Application.StaticCharMethods" />
       <item itemvalue="Application.TokenTest" />
       <item itemvalue="Application.Validate" />
       <item itemvalue="Application.RegexSubstitution" />
+      <item itemvalue="Application.RegexMatches" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegexMatches" />
         <item itemvalue="Application.RegexSubstitution" />
         <item itemvalue="Application.Validate" />
         <item itemvalue="Application.TokenTest" />
         <item itemvalue="Application.StaticCharMethods" />
-        <item itemvalue="Application.StringBuilderAppend" />
       </list>
     </recent_temporary>
   </component>
@@ -244,12 +248,12 @@
       <updated>1531396652613</updated>
       <workItem from="1531396656222" duration="6289000" />
       <workItem from="1531749937878" duration="2338000" />
-      <workItem from="1531912672328" duration="7310000" />
+      <workItem from="1531912672328" duration="7609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15937000" />
+    <option name="totallyTimeSpent" value="16236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="900" extended-state="4" />
@@ -265,7 +269,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32769832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32769832" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -442,8 +446,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/RegexSubstitution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
+        <state relative-caret-position="405">
+          <caret line="35" column="48" lean-forward="true" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/RegexMatches.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
