@@ -12,34 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ValidateInput.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ValidateInput.java">
+      <file leaf-file-name="RegexSubstitution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/RegexSubstitution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#777#778#0" expanded="true" />
-                <element signature="e#823#824#0" expanded="true" />
-                <element signature="e#879#880#0" expanded="true" />
-                <element signature="e#951#952#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Validate.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/Validate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+              <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -72,6 +49,7 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/TokenTest.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/ValidateInput.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/Validate.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/RegexSubstitution.java" />
       </list>
     </option>
   </component>
@@ -140,7 +118,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Validate">
+  <component name="RunManager" selected="Application.RegexSubstitution">
+    <configuration name="RegexSubstitution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.RegexSubstitution" />
+      <module name="StringsAndRegularExpressions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StaticCharMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StaticCharMethods" />
       <module name="StringsAndRegularExpressions" />
@@ -154,17 +143,6 @@
     </configuration>
     <configuration name="StringBuilderAppend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderAppend" />
-      <module name="StringsAndRegularExpressions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringBuilderChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderChars" />
       <module name="StringsAndRegularExpressions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -238,19 +216,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringBuilderChars" />
       <item itemvalue="Application.StringBuilderAppend" />
       <item itemvalue="Application.StaticCharMethods" />
       <item itemvalue="Application.TokenTest" />
       <item itemvalue="Application.Validate" />
+      <item itemvalue="Application.RegexSubstitution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RegexSubstitution" />
         <item itemvalue="Application.Validate" />
         <item itemvalue="Application.TokenTest" />
         <item itemvalue="Application.StaticCharMethods" />
         <item itemvalue="Application.StringBuilderAppend" />
-        <item itemvalue="Application.StringBuilderChars" />
       </list>
     </recent_temporary>
   </component>
@@ -266,12 +244,12 @@
       <updated>1531396652613</updated>
       <workItem from="1531396656222" duration="6289000" />
       <workItem from="1531749937878" duration="2338000" />
-      <workItem from="1531912672328" duration="5404000" />
+      <workItem from="1531912672328" duration="7310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14031000" />
+    <option name="totallyTimeSpent" value="15937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="900" extended-state="4" />
@@ -287,7 +265,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32769832" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32769832" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -434,10 +412,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Validate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/ValidateInput.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
@@ -455,10 +440,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Validate.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/RegexSubstitution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
+        <state relative-caret-position="375">
+          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
         </state>
       </provider>
     </entry>
