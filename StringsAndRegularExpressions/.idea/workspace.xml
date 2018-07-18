@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringBuilderChars.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringBuilderChars.java">
+      <file leaf-file-name="TokenTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/TokenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+            <state relative-caret-position="225">
+              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -44,6 +44,9 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/StringBuilderConstructors.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/StringBuilderCapLen.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/StringBuilderChars.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/StringBuilderAppend.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/StaticCharMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/TokenTest.java" />
       </list>
     </option>
   </component>
@@ -112,7 +115,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringBuilderChars">
+  <component name="RunManager" selected="Application.TokenTest">
+    <configuration name="StaticCharMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.StaticCharMethods" />
+      <module name="StringsAndRegularExpressions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringBuilderAppend" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderAppend" />
+      <module name="StringsAndRegularExpressions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="StringBuilderCapLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderCapLen" />
       <module name="StringsAndRegularExpressions" />
@@ -135,30 +160,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringBuilderConstructors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderConstructors" />
-      <module name="StringsAndRegularExpressions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringMiscellaneous2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringMiscellaneous2" />
-      <module name="StringsAndRegularExpressions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="StringValueOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringValueOf" />
+    <configuration name="TokenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.TokenTest" />
       <module name="StringsAndRegularExpressions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -210,19 +213,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringMiscellaneous2" />
-      <item itemvalue="Application.StringValueOf" />
-      <item itemvalue="Application.StringBuilderConstructors" />
       <item itemvalue="Application.StringBuilderCapLen" />
       <item itemvalue="Application.StringBuilderChars" />
+      <item itemvalue="Application.StringBuilderAppend" />
+      <item itemvalue="Application.StaticCharMethods" />
+      <item itemvalue="Application.TokenTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TokenTest" />
+        <item itemvalue="Application.StaticCharMethods" />
+        <item itemvalue="Application.StringBuilderAppend" />
         <item itemvalue="Application.StringBuilderChars" />
         <item itemvalue="Application.StringBuilderCapLen" />
-        <item itemvalue="Application.StringBuilderConstructors" />
-        <item itemvalue="Application.StringValueOf" />
-        <item itemvalue="Application.StringMiscellaneous2" />
       </list>
     </recent_temporary>
   </component>
@@ -238,12 +241,12 @@
       <updated>1531396652613</updated>
       <workItem from="1531396656222" duration="6289000" />
       <workItem from="1531749937878" duration="2338000" />
-      <workItem from="1531912672328" duration="1037000" />
+      <workItem from="1531912672328" duration="3041000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9664000" />
+    <option name="totallyTimeSpent" value="11668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="900" extended-state="4" />
@@ -259,7 +262,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32769832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32769832" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -380,8 +383,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringBuilderChars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/StringBuilderAppend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/StaticCharMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/TokenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
         </state>
       </provider>
     </entry>
