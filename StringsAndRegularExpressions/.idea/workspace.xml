@@ -12,11 +12,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TokenTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mamithi/TokenTest.java">
+      <file leaf-file-name="ValidateInput.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/ValidateInput.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="375">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#777#778#0" expanded="true" />
+                <element signature="e#823#824#0" expanded="true" />
+                <element signature="e#879#880#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Validate.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mamithi/Validate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -47,6 +70,8 @@
         <option value="$PROJECT_DIR$/src/com/mamithi/StringBuilderAppend.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/StaticCharMethods.java" />
         <option value="$PROJECT_DIR$/src/com/mamithi/TokenTest.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/ValidateInput.java" />
+        <option value="$PROJECT_DIR$/src/com/mamithi/Validate.java" />
       </list>
     </option>
   </component>
@@ -115,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TokenTest">
+  <component name="RunManager" selected="Application.Validate">
     <configuration name="StaticCharMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StaticCharMethods" />
       <module name="StringsAndRegularExpressions" />
@@ -138,17 +163,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringBuilderCapLen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderCapLen" />
-      <module name="StringsAndRegularExpressions" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mamithi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="StringBuilderChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.StringBuilderChars" />
       <module name="StringsAndRegularExpressions" />
@@ -162,6 +176,17 @@
     </configuration>
     <configuration name="TokenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mamithi.TokenTest" />
+      <module name="StringsAndRegularExpressions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mamithi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Validate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mamithi.Validate" />
       <module name="StringsAndRegularExpressions" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -213,19 +238,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.StringBuilderCapLen" />
       <item itemvalue="Application.StringBuilderChars" />
       <item itemvalue="Application.StringBuilderAppend" />
       <item itemvalue="Application.StaticCharMethods" />
       <item itemvalue="Application.TokenTest" />
+      <item itemvalue="Application.Validate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Validate" />
         <item itemvalue="Application.TokenTest" />
         <item itemvalue="Application.StaticCharMethods" />
         <item itemvalue="Application.StringBuilderAppend" />
         <item itemvalue="Application.StringBuilderChars" />
-        <item itemvalue="Application.StringBuilderCapLen" />
       </list>
     </recent_temporary>
   </component>
@@ -241,12 +266,12 @@
       <updated>1531396652613</updated>
       <workItem from="1531396656222" duration="6289000" />
       <workItem from="1531749937878" duration="2338000" />
-      <workItem from="1531912672328" duration="3041000" />
+      <workItem from="1531912672328" duration="5404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11668000" />
+    <option name="totallyTimeSpent" value="14031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="800" y="-2" width="800" height="900" extended-state="4" />
@@ -404,8 +429,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mamithi/TokenTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/ValidateInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#777#778#0" expanded="true" />
+            <element signature="e#823#824#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mamithi/Validate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="57" selection-start-line="39" selection-start-column="57" selection-end-line="39" selection-end-column="57" />
         </state>
       </provider>
     </entry>
