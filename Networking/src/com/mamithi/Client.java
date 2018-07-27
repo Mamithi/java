@@ -110,7 +110,7 @@ public class Client extends JFrame {
         try{
             output.writeObject("CLIENT>>> " + message);
             output.flush();
-            displayMessage("\nClient>>> " + message);
+            displayMessage("\nCLIENT>>> " + message);
         } catch (IOException iOException){
             displayArea.append("\nError writing object");
         }
