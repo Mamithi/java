@@ -3,7 +3,7 @@ package com.mamithi;
 import java.sql.*;
 
 public class DisplayAuthors {
-    static final String DATABASE_URL = "jdbc:mysql://localhost:3306/books";
+     static final String DATABASE_URL = "jdbc:mysql://localhost:3306/books";
 
     public static void main(String[] args) {
         Connection connection = null;
@@ -14,7 +14,6 @@ public class DisplayAuthors {
 
             System.out.println("Connecting to the database");
 
-            Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
 
             connection = DriverManager.getConnection(
                     DATABASE_URL, "root", "root");
@@ -23,7 +22,7 @@ public class DisplayAuthors {
             statement = connection.createStatement();
 
             resultSet = statement.executeQuery(
-                    "SELECT id, firstname, lastname FROM authors");
+                    "SELECT firstname, lastname FROM authors");
 
             // Process query results
             ResultSetMetaData metaData = resultSet.getMetaData();
@@ -42,11 +41,9 @@ public class DisplayAuthors {
             }
         } catch (SQLException sqlException) {
             sqlException.printStackTrace();
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
-        }
-        finally {
+        } finally {
             try {
                 resultSet.close();
                 statement.close();
