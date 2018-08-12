@@ -1,4 +1,4 @@
-package com.mamithi.rest.webservices.restfulwebservices;
+package com.mamithi.rest.webservices.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
     private String message;
