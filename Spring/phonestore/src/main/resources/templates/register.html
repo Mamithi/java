@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+
+<head th:replace="/layout/header :: layout-header"/>
+
+<body>
+
+<div th:replace="/layout/header :: navbar"/>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 register-card">
+            <h2>Register</h2>
+            <label>First Name</label>
+            <input type="text" class="form-control" name="firstname"/>
+
+            <label>Last Name</label>
+            <input type="text" class="form-control" name="lastname"/>
+
+
+            <label>Email</label>
+            <input type="text" class="form-control" name="email"/>
+
+            <label>Password</label>
+            <input type="password" class="form-control" name="password"/>
+
+            <button type="button" class="btn btn-success btn-register">Register</button>
+            <br><br>
+
+            <button class="btn btn-success">Register with Google</button>
+            <br>
+            <button class="btn btn-success">Register with Facebook</button>
+        </div>
+        <div class="col-md-4">
+            <p>
+                Already have an account? <a href="/login" class="btn btn-warning">Login</a>
+            <hr>
+            <button class="btn btn-warning">Login With Google</button>
+            <br>
+            <button class="btn btn-warning">Login With Facebook</button>
+            </p>
+        </div>
+    </div>
+</div>  <!-- end of container-->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<div th:replace="/layout/header :: body-bottom-scripts"/>
+</body>
+</html>

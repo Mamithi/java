@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+
+<head th:replace="/layout/header :: layout-header"/>
+
+<body>
+
+<div th:replace="/layout/header :: navbar"/>
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 login-card">
+            <h2>Log In</h2>
+            <label>Email</label>
+            <input type="text" class="form-control" name="email"/>
+
+            <label>Password</label>
+            <input type="password" class="form-control" name="password"/>
+
+            <a href="#" class="btn btn-success">Forgot Password</a>
+            <button type="button" class="btn btn-success btn-login">Login</button>
+            <br><br>
+            <button class="btn btn-success">Login with Google</button>
+            <br>
+            <button class="btn btn-success">Login with Facebook</button>
+        </div>
+        <div class="col-md-4">
+            <p>
+                New Customer? <a href="/register" class="btn btn-warning">Register</a>
+            <hr>
+            <button class="btn btn-warning">Register With Google</button>
+            <br>
+            <button class="btn btn-warning">Register With Facebook</button>
+            </p>
+        </div>
+    </div>
+</div>  <!-- end of container-->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<div th:replace="/layout/header :: body-bottom-scripts"/>
+</body>
+</html>

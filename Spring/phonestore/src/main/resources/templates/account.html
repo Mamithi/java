@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+
+<head th:replace="/layout/header :: layout-header" />
+
+<body>
+
+<div th:replace="/layout/header :: navbar"/>
+
+
+<div class="container">
+   <div class="row" style="margin-bottom: -100px;">
+       <div class="col-md-8">
+           <h2 class="section-headline"><span>User Account</span></h2>
+       </div>
+       <div class="col-md-4">
+           <img src="/images/logo.png" alt="logo" class="img-responsive"/>
+       </div>
+   </div>
+
+    <hr class="hr-line">
+
+</div>  <!-- end of container-->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<div th:replace="/layout/header :: body-bottom-scripts"/>
+</body>
+</html>
