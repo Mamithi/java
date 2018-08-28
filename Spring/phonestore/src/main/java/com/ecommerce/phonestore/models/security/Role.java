@@ -1,14 +1,13 @@
 package com.ecommerce.phonestore.models.security;
 
-import javax.persistence.CascadeType;
-import javax.persistence.Entity;
-import javax.persistence.FetchType;
-import javax.persistence.OneToMany;
+import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
 
 @Entity
+@Table(name = "roles")
 public class Role {
+    @Id
     private int roleId;
     private String name;
 
